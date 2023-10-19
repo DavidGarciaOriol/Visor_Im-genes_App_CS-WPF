@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Diagnostics;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -23,6 +24,11 @@ namespace VisualizadorImágenesWPF
         public MainWindow()
         {
             InitializeComponent();
+        }
+
+        private void abrir_Click(object sender, RoutedEventArgs e)
+        {
+            Process.Start("explorer.exe", @"VisualizadorImágenesWPF\res");
         }
     }
 }

@@ -5,17 +5,27 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:VisualizadorImágenesWPF"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
+        Title="MainWindow" Height="450" Width="800" MinHeight="450" MinWidth="800">
     <Grid>
         <Menu FlowDirection="LeftToRight">
-            <MenuItem Header="Archivo" x:Name="Archivo">
-                <MenuItem x:Name="abrirImagen" Header="Abrir Imagen"></MenuItem>
+            <MenuItem Header="Archivo" x:Name="Archivo" >
+                <MenuItem x:Name="abrirImagen" Header="Abrir Imagen" Click="abrir_Click"></MenuItem>
                 <MenuItem x:Name="abrirReciente" Header="Abrir Reciente..."></MenuItem>
             </MenuItem>
             <MenuItem Header="Ayuda" x:Name="ayuda">
                 <MenuItem x:Name="acercaDe" Header="Acerca de..."></MenuItem>
             </MenuItem>
         </Menu>
+
+        <Grid Margin="10,20,10,10">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition Width="25*"/>
+            </Grid.ColumnDefinitions>
+            <Frame Grid.ColumnSpan="2" >
+
+            </Frame>
+        </Grid>
 
     </Grid>
 </Window>
