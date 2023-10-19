@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34031.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VisualizadorImágenesWPF", "VisualizadorImágenesWPF\VisualizadorImágenesWPF.csproj", "{770EFA58-CC40-4C22-B98F-2A05B1BB4CC3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{770EFA58-CC40-4C22-B98F-2A05B1BB4CC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{770EFA58-CC40-4C22-B98F-2A05B1BB4CC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{770EFA58-CC40-4C22-B98F-2A05B1BB4CC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{770EFA58-CC40-4C22-B98F-2A05B1BB4CC3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E78CED1B-DB63-4030-AC5B-9301DD9F48B0}
+	EndGlobalSection
+EndGlobal
