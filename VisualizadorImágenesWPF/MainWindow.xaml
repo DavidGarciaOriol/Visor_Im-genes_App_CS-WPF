@@ -7,6 +7,15 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
+        <Menu FlowDirection="LeftToRight">
+            <MenuItem Header="Archivo" x:Name="Archivo">
+                <MenuItem x:Name="abrirImagen" Header="Abrir Imagen"></MenuItem>
+                <MenuItem x:Name="abrirReciente" Header="Abrir Reciente..."></MenuItem>
+            </MenuItem>
+            <MenuItem Header="Ayuda" x:Name="ayuda">
+                <MenuItem x:Name="acercaDe" Header="Acerca de..."></MenuItem>
+            </MenuItem>
+        </Menu>
 
     </Grid>
 </Window>
