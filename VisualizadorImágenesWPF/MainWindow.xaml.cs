@@ -28,7 +28,6 @@ namespace VisualizadorImágenesWPF
 
         private void abrir_Click(object sender, RoutedEventArgs e)
         {
-            Process.Start("explorer.exe", @"VisualizadorImágenesWPF\res");
         }
     }
 }
