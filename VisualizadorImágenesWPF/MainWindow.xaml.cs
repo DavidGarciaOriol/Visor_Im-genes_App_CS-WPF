@@ -21,6 +21,9 @@ namespace VisualizadorImágenesWPF
     /// </summary>
     public partial class MainWindow : Window
     {
+        private string rutaArchivo = "";
+        private string[] rutasRecientes = Array.Empty<string>();
+
         public MainWindow()
         {
             InitializeComponent();
@@ -28,6 +31,16 @@ namespace VisualizadorImágenesWPF
 
         private void abrir_Click(object sender, RoutedEventArgs e)
         {
+        }
+
+        private void abrirReciente_Click(object sender, RoutedEventArgs e)
+        {
+            MenuItem menuItemRuta = new MenuItem();
+
+            rutasRecientes.Append("Patata");
+
+            menuItemRuta.Header = rutasRecientes[0];
+            menuRecientes.Items.Add(menuItemRuta);
         }
     }
 }

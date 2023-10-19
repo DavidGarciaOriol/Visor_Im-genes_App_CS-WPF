@@ -10,7 +10,11 @@
         <Menu FlowDirection="LeftToRight">
             <MenuItem Header="Archivo" x:Name="Archivo" >
                 <MenuItem x:Name="abrirImagen" Header="Abrir Imagen" Click="abrir_Click"></MenuItem>
-                <MenuItem x:Name="abrirReciente" Header="Abrir Reciente..."></MenuItem>
+                <MenuItem x:Name="abrirReciente" Header="Abrir Reciente..." Click="abrirReciente_Click">
+                    <MenuItem x:Name="menuRecientes">
+                        
+                    </MenuItem>
+                </MenuItem>
             </MenuItem>
             <MenuItem Header="Ayuda" x:Name="ayuda">
                 <MenuItem x:Name="acercaDe" Header="Acerca de..."></MenuItem>
