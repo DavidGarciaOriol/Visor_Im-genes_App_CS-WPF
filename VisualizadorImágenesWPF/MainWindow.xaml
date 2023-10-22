@@ -1,27 +1,19 @@
-﻿<Window x:Class="VisualizadorImágenesWPF.MainWindow"
+﻿<Window x:Class="ImageViewer.MainWindow"
         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
-        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
-        xmlns:local="clr-namespace:VisualizadorImágenesWPF"
-        mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800" MinHeight="450" MinWidth="800">
+        Title="Image Viewer" Height="400" Width="600"> <!-- Drop="ImageDrop" *** Se puede habilitar este enlace en lugar del habilitado en el código CS, cualquiera sería válido. Lo destaco porque me he fijado en ello a raíz de este proyecto. -->
+        
     <Grid>
-        <Menu FlowDirection="LeftToRight">
-            <MenuItem Header="Archivo" x:Name="Archivo" >
-                <MenuItem x:Name="abrirImagen" Header="Abrir Imagen" Click="abrir_Click"></MenuItem>
-                <MenuItem x:Name="abrirReciente" Header="Abrir Reciente..." Click="abrirReciente_Click">
-                    <MenuItem x:Name="menuRecientes">
-                        
-                    </MenuItem>
+        <Menu>
+            <MenuItem Header="Archivo">
+                <Separator/>
+                <MenuItem Name="RecientesMenu" Header="Recientes">
+                    <!-- Aquí van los elementos de la lista de recientes añadidos de forma dinámica por el método correspondiente. -->
                 </MenuItem>
             </MenuItem>
-            <MenuItem Header="Ayuda" x:Name="ayuda">
-                <MenuItem x:Name="acercaDe" Header="Acerca de..."></MenuItem>
-            </MenuItem>
         </Menu>
-        
-        <Frame BorderBrush="Black" Margin="10,20,10,10" BorderThickness="1px" Background="AliceBlue"/>
-
+        <Border Name="imageContainer" HorizontalAlignment="Stretch" VerticalAlignment="Stretch">
+        <Image Name="displayedImage" Stretch="Uniform"/>
+        </Border>
     </Grid>
 </Window>

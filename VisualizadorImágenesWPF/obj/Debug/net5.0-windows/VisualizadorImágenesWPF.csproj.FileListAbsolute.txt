@@ -20,3 +20,24 @@ D:\ciclot\DGO\Visual Studio Projects\VisualizadorImágenesWPF\VisualizadorImáge
 D:\ciclot\DGO\Visual Studio Projects\VisualizadorImágenesWPF\VisualizadorImágenesWPF\obj\Debug\net5.0-windows\ref\VisualizadorImágenesWPF.dll
 D:\ciclot\DGO\Visual Studio Projects\VisualizadorImágenesWPF\VisualizadorImágenesWPF\obj\Debug\net5.0-windows\VisualizadorImágenesWPF.pdb
 D:\ciclot\DGO\Visual Studio Projects\VisualizadorImágenesWPF\VisualizadorImágenesWPF\obj\Debug\net5.0-windows\VisualizadorImágenesWPF.genruntimeconfig.cache
+C:\Users\usuario\source\repos\DesarrolloInterfaces\VisorImagenesWPF\VisualizadorImágenesWPF\obj\Debug\net5.0-windows\VisualizadorImágenesWPF.csproj.AssemblyReference.cache
+C:\Users\usuario\source\repos\DesarrolloInterfaces\VisorImagenesWPF\VisualizadorImágenesWPF\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\usuario\source\repos\DesarrolloInterfaces\VisorImagenesWPF\VisualizadorImágenesWPF\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\usuario\source\repos\DesarrolloInterfaces\VisorImagenesWPF\VisualizadorImágenesWPF\obj\Debug\net5.0-windows\VisualizadorImágenesWPF_MarkupCompile.cache
+C:\Users\usuario\source\repos\DesarrolloInterfaces\VisorImagenesWPF\VisualizadorImágenesWPF\obj\Debug\net5.0-windows\VisualizadorImágenesWPF.dll
+C:\Users\usuario\source\repos\DesarrolloInterfaces\VisorImagenesWPF\VisualizadorImágenesWPF\obj\Debug\net5.0-windows\VisualizadorImágenesWPF.pdb
+C:\Users\usuario\source\repos\DesarrolloInterfaces\VisorImagenesWPF\VisualizadorImágenesWPF\bin\Debug\net5.0-windows\VisualizadorImágenesWPF.exe
+C:\Users\usuario\source\repos\DesarrolloInterfaces\VisorImagenesWPF\VisualizadorImágenesWPF\bin\Debug\net5.0-windows\VisualizadorImágenesWPF.deps.json
+C:\Users\usuario\source\repos\DesarrolloInterfaces\VisorImagenesWPF\VisualizadorImágenesWPF\bin\Debug\net5.0-windows\VisualizadorImágenesWPF.runtimeconfig.json
+C:\Users\usuario\source\repos\DesarrolloInterfaces\VisorImagenesWPF\VisualizadorImágenesWPF\bin\Debug\net5.0-windows\VisualizadorImágenesWPF.runtimeconfig.dev.json
+C:\Users\usuario\source\repos\DesarrolloInterfaces\VisorImagenesWPF\VisualizadorImágenesWPF\bin\Debug\net5.0-windows\VisualizadorImágenesWPF.dll
+C:\Users\usuario\source\repos\DesarrolloInterfaces\VisorImagenesWPF\VisualizadorImágenesWPF\bin\Debug\net5.0-windows\VisualizadorImágenesWPF.pdb
+C:\Users\usuario\source\repos\DesarrolloInterfaces\VisorImagenesWPF\VisualizadorImágenesWPF\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\usuario\source\repos\DesarrolloInterfaces\VisorImagenesWPF\VisualizadorImágenesWPF\obj\Debug\net5.0-windows\VisualizadorImágenesWPF.g.resources
+C:\Users\usuario\source\repos\DesarrolloInterfaces\VisorImagenesWPF\VisualizadorImágenesWPF\obj\Debug\net5.0-windows\VisualizadorImágenesWPF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\source\repos\DesarrolloInterfaces\VisorImagenesWPF\VisualizadorImágenesWPF\obj\Debug\net5.0-windows\VisualizadorImágenesWPF.AssemblyInfoInputs.cache
+C:\Users\usuario\source\repos\DesarrolloInterfaces\VisorImagenesWPF\VisualizadorImágenesWPF\obj\Debug\net5.0-windows\VisualizadorImágenesWPF.AssemblyInfo.cs
+C:\Users\usuario\source\repos\DesarrolloInterfaces\VisorImagenesWPF\VisualizadorImágenesWPF\obj\Debug\net5.0-windows\VisualizadorImágenesWPF.csproj.CoreCompileInputs.cache
+C:\Users\usuario\source\repos\DesarrolloInterfaces\VisorImagenesWPF\VisualizadorImágenesWPF\obj\Debug\net5.0-windows\refint\VisualizadorImágenesWPF.dll
+C:\Users\usuario\source\repos\DesarrolloInterfaces\VisorImagenesWPF\VisualizadorImágenesWPF\obj\Debug\net5.0-windows\VisualizadorImágenesWPF.genruntimeconfig.cache
+C:\Users\usuario\source\repos\DesarrolloInterfaces\VisorImagenesWPF\VisualizadorImágenesWPF\obj\Debug\net5.0-windows\ref\VisualizadorImágenesWPF.dll
