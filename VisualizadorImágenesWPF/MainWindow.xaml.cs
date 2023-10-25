@@ -73,12 +73,11 @@ namespace ImageViewer
             recentImageMenuItem.Tag = imagePath;
             recentImageMenuItem.Click += OpenImage_Click; // Se enlaza el evento al componente de forma dinámica por código.
 
-            // Agregar el elemento al submenú "Recientes"
+            // Agregar el elemento al submenú "Recientes". Si sobrepasa los 20 elementos, borra el más antiguo.
             if (RecientesMenu.Items.Count >= 20)
             {
                 RecientesMenu.Items.RemoveAt(19);
             }
-
             RecientesMenu.Items.Insert(0, recentImageMenuItem);
         }
     }
