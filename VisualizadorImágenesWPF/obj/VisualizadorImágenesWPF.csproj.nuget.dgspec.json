@@ -1,24 +1,28 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\usuario\\source\\repos\\DesarrolloInterfaces\\VisorImagenesWPF\\VisualizadorImágenesWPF\\VisualizadorImágenesWPF.csproj": {}
+    "D:\\ciclot\\DGO\\Visual Studio Projects\\VisualizadorImágenesWPF\\VisualizadorImágenesWPF\\VisualizadorImágenesWPF.csproj": {}
   },
   "projects": {
-    "C:\\Users\\usuario\\source\\repos\\DesarrolloInterfaces\\VisorImagenesWPF\\VisualizadorImágenesWPF\\VisualizadorImágenesWPF.csproj": {
+    "D:\\ciclot\\DGO\\Visual Studio Projects\\VisualizadorImágenesWPF\\VisualizadorImágenesWPF\\VisualizadorImágenesWPF.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\usuario\\source\\repos\\DesarrolloInterfaces\\VisorImagenesWPF\\VisualizadorImágenesWPF\\VisualizadorImágenesWPF.csproj",
+        "projectUniqueName": "D:\\ciclot\\DGO\\Visual Studio Projects\\VisualizadorImágenesWPF\\VisualizadorImágenesWPF\\VisualizadorImágenesWPF.csproj",
         "projectName": "VisualizadorImágenesWPF",
-        "projectPath": "C:\\Users\\usuario\\source\\repos\\DesarrolloInterfaces\\VisorImagenesWPF\\VisualizadorImágenesWPF\\VisualizadorImágenesWPF.csproj",
-        "packagesPath": "C:\\Users\\usuario\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\usuario\\source\\repos\\DesarrolloInterfaces\\VisorImagenesWPF\\VisualizadorImágenesWPF\\obj\\",
+        "projectPath": "D:\\ciclot\\DGO\\Visual Studio Projects\\VisualizadorImágenesWPF\\VisualizadorImágenesWPF\\VisualizadorImágenesWPF.csproj",
+        "packagesPath": "C:\\Users\\2dam\\.nuget\\packages\\",
+        "outputPath": "D:\\ciclot\\DGO\\Visual Studio Projects\\VisualizadorImágenesWPF\\VisualizadorImágenesWPF\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\2dam\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net5.0-windows"
+          "net5.0-windows7.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
@@ -45,8 +49,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -58,7 +61,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.416\\RuntimeIdentifierGraph.json"
         }
       }
     }

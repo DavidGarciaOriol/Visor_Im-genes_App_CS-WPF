@@ -9,7 +9,6 @@ D:\ciclot\DGO\Visual Studio Projects\VisualizadorImágenesWPF\VisualizadorImáge
 D:\ciclot\DGO\Visual Studio Projects\VisualizadorImágenesWPF\VisualizadorImágenesWPF\obj\Debug\net5.0-windows\MainWindow.g.cs
 D:\ciclot\DGO\Visual Studio Projects\VisualizadorImágenesWPF\VisualizadorImágenesWPF\obj\Debug\net5.0-windows\App.g.cs
 D:\ciclot\DGO\Visual Studio Projects\VisualizadorImágenesWPF\VisualizadorImágenesWPF\obj\Debug\net5.0-windows\VisualizadorImágenesWPF_MarkupCompile.cache
-D:\ciclot\DGO\Visual Studio Projects\VisualizadorImágenesWPF\VisualizadorImágenesWPF\obj\Debug\net5.0-windows\VisualizadorImágenesWPF_MarkupCompile.lref
 D:\ciclot\DGO\Visual Studio Projects\VisualizadorImágenesWPF\VisualizadorImágenesWPF\obj\Debug\net5.0-windows\MainWindow.baml
 D:\ciclot\DGO\Visual Studio Projects\VisualizadorImágenesWPF\VisualizadorImágenesWPF\obj\Debug\net5.0-windows\VisualizadorImágenesWPF.g.resources
 D:\ciclot\DGO\Visual Studio Projects\VisualizadorImágenesWPF\VisualizadorImágenesWPF\obj\Debug\net5.0-windows\VisualizadorImágenesWPF.GeneratedMSBuildEditorConfig.editorconfig

@@ -6,13 +6,15 @@
     <Grid>
         <Menu>
             <MenuItem Header="Archivo">
-                <Separator/>
                 <MenuItem Name="RecientesMenu" Header="Recientes">
                     <!-- Aquí van los elementos de la lista de recientes añadidos de forma dinámica por el método correspondiente. -->
                 </MenuItem>
             </MenuItem>
+            <MenuItem Header="Acerca de">
+                <Label Content="David García Oriol"/>
+            </MenuItem>
         </Menu>
-        <Border Name="imageContainer" HorizontalAlignment="Stretch" VerticalAlignment="Stretch">
+        <Border Name="imageContainer" Margin="0,19,0,0">
         <Image Name="displayedImage" Stretch="Uniform"/>
         </Border>
     </Grid>
