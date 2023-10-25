@@ -55,7 +55,7 @@ namespace ImageViewer
         private bool IsImageFile(string filePath)
         {
             string extension = System.IO.Path.GetExtension(filePath).ToLower();
-            return extension == ".jpg" || extension == ".jpeg" || extension == ".png" || extension == ".gif" || extension == ".bmp";
+            return extension == ".jpg" || extension == ".jpeg" || extension == ".png" || extension == ".gif" || extension == ".bmp" || extension == ".webp";
         }
 
         // Método que abre la imagen reciente al clickar en el componente con la ruta de la imagen añadida anteriormente.
